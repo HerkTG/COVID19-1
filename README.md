@@ -191,4 +191,3 @@ Pull New Sources Data? (Some listed below)
 
 **Additional Notes:**
 
-Do we set up a Trello board?
